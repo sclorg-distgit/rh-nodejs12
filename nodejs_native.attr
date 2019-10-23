@@ -1,0 +1,2 @@
+%__rh_nodejs12_native_requires %{_rpmconfigdir}/rh_nodejs12_native.req
+%__rh_nodejs12_native_path ^(/opt/rh/rh-nodejs12/root)?/usr/lib.*/node_modules/.*\\.node$

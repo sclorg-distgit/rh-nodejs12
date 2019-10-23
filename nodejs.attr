@@ -1,0 +1,3 @@
+%__rh_nodejs12_provides  %{_rpmconfigdir}/rh_nodejs12.prov
+%__rh_nodejs12_requires  %{_rpmconfigdir}/rh_nodejs12.req
+%__rh_nodejs12_path  ^(/opt/rh/rh-nodejs12/root)?/usr/lib(64)?/node_modules/[^/]+/package\\.json$
